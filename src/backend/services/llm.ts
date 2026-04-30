@@ -15,13 +15,13 @@ function getGeminiAi() {
   return geminiAi;
 }
 
-const groqAi = new Groq({ apiKey: process.env.GROQ_API_KEY || "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" });
+const groqAi = new Groq({ apiKey: process.env.GROQ_API_KEY || "" });
 
 const azureOpenAI = new AzureOpenAI({
-  apiKey: process.env.AZURE_OPENAI_API_KEY || "EBV3nRtX64CcFboGqz1Uc0i27GsuQ5AVEpxCcWxWflveH1FT4Me8JQQJ99CDACYeBjFXJ3w3AAABACOGoQJN",
-  endpoint: process.env.AZURE_OPENAI_ENDPOINT || "https://estate-ai-agent.openai.azure.com",
-  deployment: process.env.AZURE_OPENAI_DEPLOYMENT || "gpt-5.1-chat",
-  apiVersion: process.env.AZURE_OPENAI_API_VERSION || '2025-03-01-preview',
+  apiKey: process.env.AZURE_OPENAI_API_KEY || "",
+  endpoint: process.env.AZURE_OPENAI_ENDPOINT || "",
+  deployment: process.env.AZURE_OPENAI_DEPLOYMENT || "",
+  apiVersion: process.env.AZURE_OPENAI_API_VERSION || '',
 });
 
 export async function getReasoning(history: any[], tools: any[], role: string = "developer", mode: "nexus" | "estate" = "nexus") {
