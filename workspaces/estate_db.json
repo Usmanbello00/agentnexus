@@ -1,0 +1,6188 @@
+{
+  "properties": [
+    {
+      "id": "df9145af-7a36-4ec4-8a15-4b6143b5ea12",
+      "name": "Usman Bello",
+      "address": "No 31 chief Collins Street",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "units": 1,
+      "property_type": "multifamily",
+      "location": {
+        "address": "No 31 chief Collins Street",
+        "city": "Lagos",
+        "country": "Nigeria"
+      }
+    },
+    {
+      "id": "PROP_3",
+      "name": "Estate_4",
+      "location": {
+        "address": "",
+        "city": "",
+        "country": ""
+      },
+      "units": 1,
+      "property_type": "multifamily"
+    },
+    {
+      "id": "PROP_6",
+      "name": "Estate_8",
+      "location": {
+        "address": "",
+        "city": "",
+        "country": ""
+      },
+      "units": 1,
+      "property_type": "multifamily"
+    },
+    {
+      "id": "PROP_5",
+      "name": "Estate_8",
+      "location": {
+        "address": "",
+        "city": "",
+        "country": ""
+      },
+      "units": 1,
+      "property_type": "multifamily"
+    },
+    {
+      "id": "PROP_10",
+      "name": "Estate_10",
+      "location": {
+        "address": "",
+        "city": "",
+        "country": ""
+      },
+      "units": 1,
+      "property_type": "multifamily"
+    },
+    {
+      "id": "PROP_1",
+      "name": "Estate_1",
+      "location": {
+        "address": "",
+        "city": "",
+        "country": ""
+      },
+      "units": 1,
+      "property_type": "multifamily"
+    },
+    {
+      "id": "PROP_4",
+      "name": "Estate_6",
+      "location": {
+        "address": "",
+        "city": "",
+        "country": ""
+      },
+      "units": 1,
+      "property_type": "multifamily"
+    },
+    {
+      "id": "PROP_7",
+      "name": "Estate_8",
+      "location": {
+        "address": "",
+        "city": "",
+        "country": ""
+      },
+      "units": 1,
+      "property_type": "multifamily"
+    },
+    {
+      "id": "PROP_9",
+      "name": "Estate_6",
+      "location": {
+        "address": "",
+        "city": "",
+        "country": ""
+      },
+      "units": 1,
+      "property_type": "multifamily"
+    },
+    {
+      "id": "PROP_8",
+      "name": "Estate_5",
+      "location": {
+        "address": "",
+        "city": "",
+        "country": ""
+      },
+      "units": 1,
+      "property_type": "multifamily"
+    }
+  ],
+  "tenants": [
+    {
+      "id": "2e8c1deb-5a64-48c7-aa52-c308d0efb050",
+      "name": "Williams collins",
+      "assigned_unit": "center",
+      "property_id": "df9145af-7a36-4ec4-8a15-4b6143b5ea12",
+      "contact": {
+        "email": "husmanbell@gmail.com",
+        "phone": "08068234521"
+      }
+    },
+    {
+      "id": "TEN_1",
+      "name": "Tenant_1",
+      "contact": {
+        "email": "tenant1@example.com",
+        "phone": "+2348056799193"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_2",
+      "name": "Tenant_2",
+      "contact": {
+        "email": "tenant2@example.com",
+        "phone": "+2348026544674"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_3",
+      "name": "Tenant_3",
+      "contact": {
+        "email": "tenant3@example.com",
+        "phone": "+2348018368012"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_4",
+      "name": "Tenant_4",
+      "contact": {
+        "email": "tenant4@example.com",
+        "phone": "+2348084295802"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_5",
+      "name": "Tenant_5",
+      "contact": {
+        "email": "tenant5@example.com",
+        "phone": "+2348089631628"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_6",
+      "name": "Tenant_6",
+      "contact": {
+        "email": "tenant6@example.com",
+        "phone": "+2348074443869"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_7",
+      "name": "Tenant_7",
+      "contact": {
+        "email": "tenant7@example.com",
+        "phone": "+2348017034325"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_8",
+      "name": "Tenant_8",
+      "contact": {
+        "email": "tenant8@example.com",
+        "phone": "+2348015412114"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_9",
+      "name": "Tenant_9",
+      "contact": {
+        "email": "tenant9@example.com",
+        "phone": "+2348020694522"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_10",
+      "name": "Tenant_10",
+      "contact": {
+        "email": "tenant10@example.com",
+        "phone": "+2348011480258"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_11",
+      "name": "Tenant_11",
+      "contact": {
+        "email": "tenant11@example.com",
+        "phone": "+2348084813785"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_12",
+      "name": "Tenant_12",
+      "contact": {
+        "email": "tenant12@example.com",
+        "phone": "+2348020871343"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_13",
+      "name": "Tenant_13",
+      "contact": {
+        "email": "tenant13@example.com",
+        "phone": "+2348048466210"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_14",
+      "name": "Tenant_14",
+      "contact": {
+        "email": "tenant14@example.com",
+        "phone": "+2348011833473"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_15",
+      "name": "Tenant_15",
+      "contact": {
+        "email": "tenant15@example.com",
+        "phone": "+2348022779150"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_16",
+      "name": "Tenant_16",
+      "contact": {
+        "email": "tenant16@example.com",
+        "phone": "+2348060219320"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_17",
+      "name": "Tenant_17",
+      "contact": {
+        "email": "tenant17@example.com",
+        "phone": "+2348013193707"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_18",
+      "name": "Tenant_18",
+      "contact": {
+        "email": "tenant18@example.com",
+        "phone": "+2348064534558"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_19",
+      "name": "Tenant_19",
+      "contact": {
+        "email": "tenant19@example.com",
+        "phone": "+2348042657554"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_20",
+      "name": "Tenant_20",
+      "contact": {
+        "email": "tenant20@example.com",
+        "phone": "+2348066435398"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_21",
+      "name": "Tenant_21",
+      "contact": {
+        "email": "tenant21@example.com",
+        "phone": "+2348028643071"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_22",
+      "name": "Tenant_22",
+      "contact": {
+        "email": "tenant22@example.com",
+        "phone": "+2348020629429"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_23",
+      "name": "Tenant_23",
+      "contact": {
+        "email": "tenant23@example.com",
+        "phone": "+2348035405134"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_24",
+      "name": "Tenant_24",
+      "contact": {
+        "email": "tenant24@example.com",
+        "phone": "+2348056650149"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_25",
+      "name": "Tenant_25",
+      "contact": {
+        "email": "tenant25@example.com",
+        "phone": "+2348050296441"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_26",
+      "name": "Tenant_26",
+      "contact": {
+        "email": "tenant26@example.com",
+        "phone": "+2348049572783"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_27",
+      "name": "Tenant_27",
+      "contact": {
+        "email": "tenant27@example.com",
+        "phone": "+2348038889009"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_28",
+      "name": "Tenant_28",
+      "contact": {
+        "email": "tenant28@example.com",
+        "phone": "+2348031400040"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_29",
+      "name": "Tenant_29",
+      "contact": {
+        "email": "tenant29@example.com",
+        "phone": "+2348078277105"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_30",
+      "name": "Tenant_30",
+      "contact": {
+        "email": "tenant30@example.com",
+        "phone": "+2348027289624"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_31",
+      "name": "Tenant_31",
+      "contact": {
+        "email": "tenant31@example.com",
+        "phone": "+2348089544930"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_32",
+      "name": "Tenant_32",
+      "contact": {
+        "email": "tenant32@example.com",
+        "phone": "+2348097867000"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_33",
+      "name": "Tenant_33",
+      "contact": {
+        "email": "tenant33@example.com",
+        "phone": "+2348078130946"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_34",
+      "name": "Tenant_34",
+      "contact": {
+        "email": "tenant34@example.com",
+        "phone": "+2348070736154"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_35",
+      "name": "Tenant_35",
+      "contact": {
+        "email": "tenant35@example.com",
+        "phone": "+2348062871136"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_36",
+      "name": "Tenant_36",
+      "contact": {
+        "email": "tenant36@example.com",
+        "phone": "+2348018559668"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_37",
+      "name": "Tenant_37",
+      "contact": {
+        "email": "tenant37@example.com",
+        "phone": "+2348089865955"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_38",
+      "name": "Tenant_38",
+      "contact": {
+        "email": "tenant38@example.com",
+        "phone": "+2348073606630"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_39",
+      "name": "Tenant_39",
+      "contact": {
+        "email": "tenant39@example.com",
+        "phone": "+2348045482730"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_40",
+      "name": "Tenant_40",
+      "contact": {
+        "email": "tenant40@example.com",
+        "phone": "+2348016917320"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_41",
+      "name": "Tenant_41",
+      "contact": {
+        "email": "tenant41@example.com",
+        "phone": "+2348015728807"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_42",
+      "name": "Tenant_42",
+      "contact": {
+        "email": "tenant42@example.com",
+        "phone": "+2348051087914"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_43",
+      "name": "Tenant_43",
+      "contact": {
+        "email": "tenant43@example.com",
+        "phone": "+2348092721406"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_44",
+      "name": "Tenant_44",
+      "contact": {
+        "email": "tenant44@example.com",
+        "phone": "+2348076906705"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_45",
+      "name": "Tenant_45",
+      "contact": {
+        "email": "tenant45@example.com",
+        "phone": "+2348037629458"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_46",
+      "name": "Tenant_46",
+      "contact": {
+        "email": "tenant46@example.com",
+        "phone": "+2348021056702"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_47",
+      "name": "Tenant_47",
+      "contact": {
+        "email": "tenant47@example.com",
+        "phone": "+2348042247103"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_48",
+      "name": "Tenant_48",
+      "contact": {
+        "email": "tenant48@example.com",
+        "phone": "+2348070121426"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_49",
+      "name": "Tenant_49",
+      "contact": {
+        "email": "tenant49@example.com",
+        "phone": "+2348050402540"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_50",
+      "name": "Tenant_50",
+      "contact": {
+        "email": "tenant50@example.com",
+        "phone": "+2348091089634"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_51",
+      "name": "Tenant_51",
+      "contact": {
+        "email": "tenant51@example.com",
+        "phone": "+2348061750472"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_52",
+      "name": "Tenant_52",
+      "contact": {
+        "email": "tenant52@example.com",
+        "phone": "+2348067544008"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_53",
+      "name": "Tenant_53",
+      "contact": {
+        "email": "tenant53@example.com",
+        "phone": "+2348023844582"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_54",
+      "name": "Tenant_54",
+      "contact": {
+        "email": "tenant54@example.com",
+        "phone": "+2348050626517"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_55",
+      "name": "Tenant_55",
+      "contact": {
+        "email": "tenant55@example.com",
+        "phone": "+2348012860113"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_56",
+      "name": "Tenant_56",
+      "contact": {
+        "email": "tenant56@example.com",
+        "phone": "+2348081586707"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_57",
+      "name": "Tenant_57",
+      "contact": {
+        "email": "tenant57@example.com",
+        "phone": "+2348036050971"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_58",
+      "name": "Tenant_58",
+      "contact": {
+        "email": "tenant58@example.com",
+        "phone": "+2348030232312"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_59",
+      "name": "Tenant_59",
+      "contact": {
+        "email": "tenant59@example.com",
+        "phone": "+2348029510459"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_60",
+      "name": "Tenant_60",
+      "contact": {
+        "email": "tenant60@example.com",
+        "phone": "+2348015245372"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_61",
+      "name": "Tenant_61",
+      "contact": {
+        "email": "tenant61@example.com",
+        "phone": "+2348059116063"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_62",
+      "name": "Tenant_62",
+      "contact": {
+        "email": "tenant62@example.com",
+        "phone": "+2348041296337"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_63",
+      "name": "Tenant_63",
+      "contact": {
+        "email": "tenant63@example.com",
+        "phone": "+2348056858248"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_64",
+      "name": "Tenant_64",
+      "contact": {
+        "email": "tenant64@example.com",
+        "phone": "+2348055698350"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_65",
+      "name": "Tenant_65",
+      "contact": {
+        "email": "tenant65@example.com",
+        "phone": "+2348012831583"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_66",
+      "name": "Tenant_66",
+      "contact": {
+        "email": "tenant66@example.com",
+        "phone": "+2348059535136"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_67",
+      "name": "Tenant_67",
+      "contact": {
+        "email": "tenant67@example.com",
+        "phone": "+2348044455569"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_68",
+      "name": "Tenant_68",
+      "contact": {
+        "email": "tenant68@example.com",
+        "phone": "+2348040527401"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_69",
+      "name": "Tenant_69",
+      "contact": {
+        "email": "tenant69@example.com",
+        "phone": "+2348080738855"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_70",
+      "name": "Tenant_70",
+      "contact": {
+        "email": "tenant70@example.com",
+        "phone": "+2348013917899"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_71",
+      "name": "Tenant_71",
+      "contact": {
+        "email": "tenant71@example.com",
+        "phone": "+2348061135088"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_72",
+      "name": "Tenant_72",
+      "contact": {
+        "email": "tenant72@example.com",
+        "phone": "+2348063881502"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_73",
+      "name": "Tenant_73",
+      "contact": {
+        "email": "tenant73@example.com",
+        "phone": "+2348065750028"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_74",
+      "name": "Tenant_74",
+      "contact": {
+        "email": "tenant74@example.com",
+        "phone": "+2348068230039"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_75",
+      "name": "Tenant_75",
+      "contact": {
+        "email": "tenant75@example.com",
+        "phone": "+2348076740505"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_76",
+      "name": "Tenant_76",
+      "contact": {
+        "email": "tenant76@example.com",
+        "phone": "+2348018772982"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_77",
+      "name": "Tenant_77",
+      "contact": {
+        "email": "tenant77@example.com",
+        "phone": "+2348095198458"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_78",
+      "name": "Tenant_78",
+      "contact": {
+        "email": "tenant78@example.com",
+        "phone": "+2348052447958"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_79",
+      "name": "Tenant_79",
+      "contact": {
+        "email": "tenant79@example.com",
+        "phone": "+2348022362038"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_80",
+      "name": "Tenant_80",
+      "contact": {
+        "email": "tenant80@example.com",
+        "phone": "+2348087226403"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_81",
+      "name": "Tenant_81",
+      "contact": {
+        "email": "tenant81@example.com",
+        "phone": "+2348065330558"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_82",
+      "name": "Tenant_82",
+      "contact": {
+        "email": "tenant82@example.com",
+        "phone": "+2348057459902"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_83",
+      "name": "Tenant_83",
+      "contact": {
+        "email": "tenant83@example.com",
+        "phone": "+2348042211165"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_84",
+      "name": "Tenant_84",
+      "contact": {
+        "email": "tenant84@example.com",
+        "phone": "+2348010724122"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_85",
+      "name": "Tenant_85",
+      "contact": {
+        "email": "tenant85@example.com",
+        "phone": "+2348065453447"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_86",
+      "name": "Tenant_86",
+      "contact": {
+        "email": "tenant86@example.com",
+        "phone": "+2348064275842"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_87",
+      "name": "Tenant_87",
+      "contact": {
+        "email": "tenant87@example.com",
+        "phone": "+2348020104493"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_88",
+      "name": "Tenant_88",
+      "contact": {
+        "email": "tenant88@example.com",
+        "phone": "+2348071386019"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_89",
+      "name": "Tenant_89",
+      "contact": {
+        "email": "tenant89@example.com",
+        "phone": "+2348061563819"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_90",
+      "name": "Tenant_90",
+      "contact": {
+        "email": "tenant90@example.com",
+        "phone": "+2348033731878"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_91",
+      "name": "Tenant_91",
+      "contact": {
+        "email": "tenant91@example.com",
+        "phone": "+2348036824199"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_92",
+      "name": "Tenant_92",
+      "contact": {
+        "email": "tenant92@example.com",
+        "phone": "+2348060038355"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_93",
+      "name": "Tenant_93",
+      "contact": {
+        "email": "tenant93@example.com",
+        "phone": "+2348015856214"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_94",
+      "name": "Tenant_94",
+      "contact": {
+        "email": "tenant94@example.com",
+        "phone": "+2348031445373"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_95",
+      "name": "Tenant_95",
+      "contact": {
+        "email": "tenant95@example.com",
+        "phone": "+2348060529492"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_96",
+      "name": "Tenant_96",
+      "contact": {
+        "email": "tenant96@example.com",
+        "phone": "+2348087363103"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_97",
+      "name": "Tenant_97",
+      "contact": {
+        "email": "tenant97@example.com",
+        "phone": "+2348085736611"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_98",
+      "name": "Tenant_98",
+      "contact": {
+        "email": "tenant98@example.com",
+        "phone": "+2348065048102"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_99",
+      "name": "Tenant_99",
+      "contact": {
+        "email": "tenant99@example.com",
+        "phone": "+2348013378783"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_100",
+      "name": "Tenant_100",
+      "contact": {
+        "email": "tenant100@example.com",
+        "phone": "+2348086103355"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_101",
+      "name": "Tenant_101",
+      "contact": {
+        "email": "tenant101@example.com",
+        "phone": "+2348071023424"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_102",
+      "name": "Tenant_102",
+      "contact": {
+        "email": "tenant102@example.com",
+        "phone": "+2348055962176"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_103",
+      "name": "Tenant_103",
+      "contact": {
+        "email": "tenant103@example.com",
+        "phone": "+2348021991516"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_104",
+      "name": "Tenant_104",
+      "contact": {
+        "email": "tenant104@example.com",
+        "phone": "+2348080770733"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_105",
+      "name": "Tenant_105",
+      "contact": {
+        "email": "tenant105@example.com",
+        "phone": "+2348099250962"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_106",
+      "name": "Tenant_106",
+      "contact": {
+        "email": "tenant106@example.com",
+        "phone": "+2348036823734"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_107",
+      "name": "Tenant_107",
+      "contact": {
+        "email": "tenant107@example.com",
+        "phone": "+2348042040783"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_108",
+      "name": "Tenant_108",
+      "contact": {
+        "email": "tenant108@example.com",
+        "phone": "+2348085554670"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_109",
+      "name": "Tenant_109",
+      "contact": {
+        "email": "tenant109@example.com",
+        "phone": "+2348071771127"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_110",
+      "name": "Tenant_110",
+      "contact": {
+        "email": "tenant110@example.com",
+        "phone": "+2348039219496"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_111",
+      "name": "Tenant_111",
+      "contact": {
+        "email": "tenant111@example.com",
+        "phone": "+2348067704148"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_112",
+      "name": "Tenant_112",
+      "contact": {
+        "email": "tenant112@example.com",
+        "phone": "+2348098995462"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_113",
+      "name": "Tenant_113",
+      "contact": {
+        "email": "tenant113@example.com",
+        "phone": "+2348011829075"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_114",
+      "name": "Tenant_114",
+      "contact": {
+        "email": "tenant114@example.com",
+        "phone": "+2348035953261"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_115",
+      "name": "Tenant_115",
+      "contact": {
+        "email": "tenant115@example.com",
+        "phone": "+2348076925498"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_116",
+      "name": "Tenant_116",
+      "contact": {
+        "email": "tenant116@example.com",
+        "phone": "+2348050181837"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_117",
+      "name": "Tenant_117",
+      "contact": {
+        "email": "tenant117@example.com",
+        "phone": "+2348062102984"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_118",
+      "name": "Tenant_118",
+      "contact": {
+        "email": "tenant118@example.com",
+        "phone": "+2348068566877"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_119",
+      "name": "Tenant_119",
+      "contact": {
+        "email": "tenant119@example.com",
+        "phone": "+2348073000846"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_120",
+      "name": "Tenant_120",
+      "contact": {
+        "email": "tenant120@example.com",
+        "phone": "+2348011095082"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_121",
+      "name": "Tenant_121",
+      "contact": {
+        "email": "tenant121@example.com",
+        "phone": "+2348089771336"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_122",
+      "name": "Tenant_122",
+      "contact": {
+        "email": "tenant122@example.com",
+        "phone": "+2348026250434"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_123",
+      "name": "Tenant_123",
+      "contact": {
+        "email": "tenant123@example.com",
+        "phone": "+2348060379688"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_124",
+      "name": "Tenant_124",
+      "contact": {
+        "email": "tenant124@example.com",
+        "phone": "+2348054076422"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_125",
+      "name": "Tenant_125",
+      "contact": {
+        "email": "tenant125@example.com",
+        "phone": "+2348071691492"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_126",
+      "name": "Tenant_126",
+      "contact": {
+        "email": "tenant126@example.com",
+        "phone": "+2348012112007"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_127",
+      "name": "Tenant_127",
+      "contact": {
+        "email": "tenant127@example.com",
+        "phone": "+2348042691924"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_128",
+      "name": "Tenant_128",
+      "contact": {
+        "email": "tenant128@example.com",
+        "phone": "+2348044386978"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_129",
+      "name": "Tenant_129",
+      "contact": {
+        "email": "tenant129@example.com",
+        "phone": "+2348050481260"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_130",
+      "name": "Tenant_130",
+      "contact": {
+        "email": "tenant130@example.com",
+        "phone": "+2348018540372"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_131",
+      "name": "Tenant_131",
+      "contact": {
+        "email": "tenant131@example.com",
+        "phone": "+2348010370694"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_132",
+      "name": "Tenant_132",
+      "contact": {
+        "email": "tenant132@example.com",
+        "phone": "+2348010634508"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_133",
+      "name": "Tenant_133",
+      "contact": {
+        "email": "tenant133@example.com",
+        "phone": "+2348082562314"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_134",
+      "name": "Tenant_134",
+      "contact": {
+        "email": "tenant134@example.com",
+        "phone": "+2348048050072"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_135",
+      "name": "Tenant_135",
+      "contact": {
+        "email": "tenant135@example.com",
+        "phone": "+2348086974696"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_136",
+      "name": "Tenant_136",
+      "contact": {
+        "email": "tenant136@example.com",
+        "phone": "+2348050476606"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_137",
+      "name": "Tenant_137",
+      "contact": {
+        "email": "tenant137@example.com",
+        "phone": "+2348036021840"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_138",
+      "name": "Tenant_138",
+      "contact": {
+        "email": "tenant138@example.com",
+        "phone": "+2348047351893"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_139",
+      "name": "Tenant_139",
+      "contact": {
+        "email": "tenant139@example.com",
+        "phone": "+2348011973544"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_140",
+      "name": "Tenant_140",
+      "contact": {
+        "email": "tenant140@example.com",
+        "phone": "+2348020564418"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_141",
+      "name": "Tenant_141",
+      "contact": {
+        "email": "tenant141@example.com",
+        "phone": "+2348071734759"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_142",
+      "name": "Tenant_142",
+      "contact": {
+        "email": "tenant142@example.com",
+        "phone": "+2348098403678"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_143",
+      "name": "Tenant_143",
+      "contact": {
+        "email": "tenant143@example.com",
+        "phone": "+2348012664967"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_144",
+      "name": "Tenant_144",
+      "contact": {
+        "email": "tenant144@example.com",
+        "phone": "+2348021876786"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_145",
+      "name": "Tenant_145",
+      "contact": {
+        "email": "tenant145@example.com",
+        "phone": "+2348010478583"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_146",
+      "name": "Tenant_146",
+      "contact": {
+        "email": "tenant146@example.com",
+        "phone": "+2348031222359"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_147",
+      "name": "Tenant_147",
+      "contact": {
+        "email": "tenant147@example.com",
+        "phone": "+2348026263440"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_148",
+      "name": "Tenant_148",
+      "contact": {
+        "email": "tenant148@example.com",
+        "phone": "+2348044755137"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_149",
+      "name": "Tenant_149",
+      "contact": {
+        "email": "tenant149@example.com",
+        "phone": "+2348095086403"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_150",
+      "name": "Tenant_150",
+      "contact": {
+        "email": "tenant150@example.com",
+        "phone": "+2348087120105"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_151",
+      "name": "Tenant_151",
+      "contact": {
+        "email": "tenant151@example.com",
+        "phone": "+2348057610969"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_152",
+      "name": "Tenant_152",
+      "contact": {
+        "email": "tenant152@example.com",
+        "phone": "+2348041681216"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_153",
+      "name": "Tenant_153",
+      "contact": {
+        "email": "tenant153@example.com",
+        "phone": "+2348049435643"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_154",
+      "name": "Tenant_154",
+      "contact": {
+        "email": "tenant154@example.com",
+        "phone": "+2348032170009"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_155",
+      "name": "Tenant_155",
+      "contact": {
+        "email": "tenant155@example.com",
+        "phone": "+2348011333071"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_156",
+      "name": "Tenant_156",
+      "contact": {
+        "email": "tenant156@example.com",
+        "phone": "+2348033347390"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_157",
+      "name": "Tenant_157",
+      "contact": {
+        "email": "tenant157@example.com",
+        "phone": "+2348066671167"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_158",
+      "name": "Tenant_158",
+      "contact": {
+        "email": "tenant158@example.com",
+        "phone": "+2348029651888"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_159",
+      "name": "Tenant_159",
+      "contact": {
+        "email": "tenant159@example.com",
+        "phone": "+2348083851451"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_160",
+      "name": "Tenant_160",
+      "contact": {
+        "email": "tenant160@example.com",
+        "phone": "+2348039291470"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_161",
+      "name": "Tenant_161",
+      "contact": {
+        "email": "tenant161@example.com",
+        "phone": "+2348079344871"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_162",
+      "name": "Tenant_162",
+      "contact": {
+        "email": "tenant162@example.com",
+        "phone": "+2348068995470"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_163",
+      "name": "Tenant_163",
+      "contact": {
+        "email": "tenant163@example.com",
+        "phone": "+2348083385324"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_164",
+      "name": "Tenant_164",
+      "contact": {
+        "email": "tenant164@example.com",
+        "phone": "+2348082762239"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_165",
+      "name": "Tenant_165",
+      "contact": {
+        "email": "tenant165@example.com",
+        "phone": "+2348051573546"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_166",
+      "name": "Tenant_166",
+      "contact": {
+        "email": "tenant166@example.com",
+        "phone": "+2348071334818"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_167",
+      "name": "Tenant_167",
+      "contact": {
+        "email": "tenant167@example.com",
+        "phone": "+2348015411326"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_168",
+      "name": "Tenant_168",
+      "contact": {
+        "email": "tenant168@example.com",
+        "phone": "+2348021013891"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_169",
+      "name": "Tenant_169",
+      "contact": {
+        "email": "tenant169@example.com",
+        "phone": "+2348080406002"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_170",
+      "name": "Tenant_170",
+      "contact": {
+        "email": "tenant170@example.com",
+        "phone": "+2348028092452"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_171",
+      "name": "Tenant_171",
+      "contact": {
+        "email": "tenant171@example.com",
+        "phone": "+2348071595195"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_172",
+      "name": "Tenant_172",
+      "contact": {
+        "email": "tenant172@example.com",
+        "phone": "+2348059610726"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_173",
+      "name": "Tenant_173",
+      "contact": {
+        "email": "tenant173@example.com",
+        "phone": "+2348089411618"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_174",
+      "name": "Tenant_174",
+      "contact": {
+        "email": "tenant174@example.com",
+        "phone": "+2348098504348"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_175",
+      "name": "Tenant_175",
+      "contact": {
+        "email": "tenant175@example.com",
+        "phone": "+2348014086784"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_176",
+      "name": "Tenant_176",
+      "contact": {
+        "email": "tenant176@example.com",
+        "phone": "+2348057639907"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_177",
+      "name": "Tenant_177",
+      "contact": {
+        "email": "tenant177@example.com",
+        "phone": "+2348050808248"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_178",
+      "name": "Tenant_178",
+      "contact": {
+        "email": "tenant178@example.com",
+        "phone": "+2348073643672"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_179",
+      "name": "Tenant_179",
+      "contact": {
+        "email": "tenant179@example.com",
+        "phone": "+2348023883426"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_180",
+      "name": "Tenant_180",
+      "contact": {
+        "email": "tenant180@example.com",
+        "phone": "+2348095464109"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_181",
+      "name": "Tenant_181",
+      "contact": {
+        "email": "tenant181@example.com",
+        "phone": "+2348073969629"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_182",
+      "name": "Tenant_182",
+      "contact": {
+        "email": "tenant182@example.com",
+        "phone": "+2348096484592"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_183",
+      "name": "Tenant_183",
+      "contact": {
+        "email": "tenant183@example.com",
+        "phone": "+2348019525802"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_184",
+      "name": "Tenant_184",
+      "contact": {
+        "email": "tenant184@example.com",
+        "phone": "+2348045756025"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_185",
+      "name": "Tenant_185",
+      "contact": {
+        "email": "tenant185@example.com",
+        "phone": "+2348084203239"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_186",
+      "name": "Tenant_186",
+      "contact": {
+        "email": "tenant186@example.com",
+        "phone": "+2348026350002"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_187",
+      "name": "Tenant_187",
+      "contact": {
+        "email": "tenant187@example.com",
+        "phone": "+2348027486200"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_188",
+      "name": "Tenant_188",
+      "contact": {
+        "email": "tenant188@example.com",
+        "phone": "+2348038540549"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_189",
+      "name": "Tenant_189",
+      "contact": {
+        "email": "tenant189@example.com",
+        "phone": "+2348041151083"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_190",
+      "name": "Tenant_190",
+      "contact": {
+        "email": "tenant190@example.com",
+        "phone": "+2348044035417"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_191",
+      "name": "Tenant_191",
+      "contact": {
+        "email": "tenant191@example.com",
+        "phone": "+2348050973689"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_192",
+      "name": "Tenant_192",
+      "contact": {
+        "email": "tenant192@example.com",
+        "phone": "+2348051273867"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_193",
+      "name": "Tenant_193",
+      "contact": {
+        "email": "tenant193@example.com",
+        "phone": "+2348057498228"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_194",
+      "name": "Tenant_194",
+      "contact": {
+        "email": "tenant194@example.com",
+        "phone": "+2348017207213"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_195",
+      "name": "Tenant_195",
+      "contact": {
+        "email": "tenant195@example.com",
+        "phone": "+2348067531883"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_196",
+      "name": "Tenant_196",
+      "contact": {
+        "email": "tenant196@example.com",
+        "phone": "+2348020486883"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_197",
+      "name": "Tenant_197",
+      "contact": {
+        "email": "tenant197@example.com",
+        "phone": "+2348029741587"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_198",
+      "name": "Tenant_198",
+      "contact": {
+        "email": "tenant198@example.com",
+        "phone": "+2348018867618"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_199",
+      "name": "Tenant_199",
+      "contact": {
+        "email": "tenant199@example.com",
+        "phone": "+2348029505882"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_200",
+      "name": "Tenant_200",
+      "contact": {
+        "email": "tenant200@example.com",
+        "phone": "+2348099002447"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_201",
+      "name": "Tenant_201",
+      "contact": {
+        "email": "tenant201@example.com",
+        "phone": "+2348088529427"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_202",
+      "name": "Tenant_202",
+      "contact": {
+        "email": "tenant202@example.com",
+        "phone": "+2348010513163"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_203",
+      "name": "Tenant_203",
+      "contact": {
+        "email": "tenant203@example.com",
+        "phone": "+2348038813596"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_204",
+      "name": "Tenant_204",
+      "contact": {
+        "email": "tenant204@example.com",
+        "phone": "+2348033162759"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_205",
+      "name": "Tenant_205",
+      "contact": {
+        "email": "tenant205@example.com",
+        "phone": "+2348049793416"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_206",
+      "name": "Tenant_206",
+      "contact": {
+        "email": "tenant206@example.com",
+        "phone": "+2348092569114"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_207",
+      "name": "Tenant_207",
+      "contact": {
+        "email": "tenant207@example.com",
+        "phone": "+2348049982301"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_208",
+      "name": "Tenant_208",
+      "contact": {
+        "email": "tenant208@example.com",
+        "phone": "+2348020860271"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_209",
+      "name": "Tenant_209",
+      "contact": {
+        "email": "tenant209@example.com",
+        "phone": "+2348053607947"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_210",
+      "name": "Tenant_210",
+      "contact": {
+        "email": "tenant210@example.com",
+        "phone": "+2348050762149"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_211",
+      "name": "Tenant_211",
+      "contact": {
+        "email": "tenant211@example.com",
+        "phone": "+2348059830358"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_212",
+      "name": "Tenant_212",
+      "contact": {
+        "email": "tenant212@example.com",
+        "phone": "+2348055470186"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_213",
+      "name": "Tenant_213",
+      "contact": {
+        "email": "tenant213@example.com",
+        "phone": "+2348026383055"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_214",
+      "name": "Tenant_214",
+      "contact": {
+        "email": "tenant214@example.com",
+        "phone": "+2348071697479"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_215",
+      "name": "Tenant_215",
+      "contact": {
+        "email": "tenant215@example.com",
+        "phone": "+2348093706754"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_216",
+      "name": "Tenant_216",
+      "contact": {
+        "email": "tenant216@example.com",
+        "phone": "+2348036266409"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_217",
+      "name": "Tenant_217",
+      "contact": {
+        "email": "tenant217@example.com",
+        "phone": "+2348036329717"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_218",
+      "name": "Tenant_218",
+      "contact": {
+        "email": "tenant218@example.com",
+        "phone": "+2348060588919"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_219",
+      "name": "Tenant_219",
+      "contact": {
+        "email": "tenant219@example.com",
+        "phone": "+2348039217918"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_220",
+      "name": "Tenant_220",
+      "contact": {
+        "email": "tenant220@example.com",
+        "phone": "+2348050742760"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_221",
+      "name": "Tenant_221",
+      "contact": {
+        "email": "tenant221@example.com",
+        "phone": "+2348030298682"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_222",
+      "name": "Tenant_222",
+      "contact": {
+        "email": "tenant222@example.com",
+        "phone": "+2348018796810"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_223",
+      "name": "Tenant_223",
+      "contact": {
+        "email": "tenant223@example.com",
+        "phone": "+2348091473314"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_224",
+      "name": "Tenant_224",
+      "contact": {
+        "email": "tenant224@example.com",
+        "phone": "+2348027744140"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_225",
+      "name": "Tenant_225",
+      "contact": {
+        "email": "tenant225@example.com",
+        "phone": "+2348060518045"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_226",
+      "name": "Tenant_226",
+      "contact": {
+        "email": "tenant226@example.com",
+        "phone": "+2348030282646"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_227",
+      "name": "Tenant_227",
+      "contact": {
+        "email": "tenant227@example.com",
+        "phone": "+2348056621621"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_228",
+      "name": "Tenant_228",
+      "contact": {
+        "email": "tenant228@example.com",
+        "phone": "+2348047728355"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_229",
+      "name": "Tenant_229",
+      "contact": {
+        "email": "tenant229@example.com",
+        "phone": "+2348090510381"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_230",
+      "name": "Tenant_230",
+      "contact": {
+        "email": "tenant230@example.com",
+        "phone": "+2348079232297"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_231",
+      "name": "Tenant_231",
+      "contact": {
+        "email": "tenant231@example.com",
+        "phone": "+2348061247400"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_232",
+      "name": "Tenant_232",
+      "contact": {
+        "email": "tenant232@example.com",
+        "phone": "+2348064785560"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_233",
+      "name": "Tenant_233",
+      "contact": {
+        "email": "tenant233@example.com",
+        "phone": "+2348073801241"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_234",
+      "name": "Tenant_234",
+      "contact": {
+        "email": "tenant234@example.com",
+        "phone": "+2348074976680"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_235",
+      "name": "Tenant_235",
+      "contact": {
+        "email": "tenant235@example.com",
+        "phone": "+2348082667173"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_236",
+      "name": "Tenant_236",
+      "contact": {
+        "email": "tenant236@example.com",
+        "phone": "+2348054412876"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_237",
+      "name": "Tenant_237",
+      "contact": {
+        "email": "tenant237@example.com",
+        "phone": "+2348080507556"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_238",
+      "name": "Tenant_238",
+      "contact": {
+        "email": "tenant238@example.com",
+        "phone": "+2348062712245"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_239",
+      "name": "Tenant_239",
+      "contact": {
+        "email": "tenant239@example.com",
+        "phone": "+2348045272067"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_240",
+      "name": "Tenant_240",
+      "contact": {
+        "email": "tenant240@example.com",
+        "phone": "+2348085186322"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_241",
+      "name": "Tenant_241",
+      "contact": {
+        "email": "tenant241@example.com",
+        "phone": "+2348065659844"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_242",
+      "name": "Tenant_242",
+      "contact": {
+        "email": "tenant242@example.com",
+        "phone": "+2348043432063"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_243",
+      "name": "Tenant_243",
+      "contact": {
+        "email": "tenant243@example.com",
+        "phone": "+2348099644031"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_244",
+      "name": "Tenant_244",
+      "contact": {
+        "email": "tenant244@example.com",
+        "phone": "+2348058017724"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_245",
+      "name": "Tenant_245",
+      "contact": {
+        "email": "tenant245@example.com",
+        "phone": "+2348076418262"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_246",
+      "name": "Tenant_246",
+      "contact": {
+        "email": "tenant246@example.com",
+        "phone": "+2348095065194"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_247",
+      "name": "Tenant_247",
+      "contact": {
+        "email": "tenant247@example.com",
+        "phone": "+2348074838521"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_248",
+      "name": "Tenant_248",
+      "contact": {
+        "email": "tenant248@example.com",
+        "phone": "+2348070642927"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_249",
+      "name": "Tenant_249",
+      "contact": {
+        "email": "tenant249@example.com",
+        "phone": "+2348069088128"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_250",
+      "name": "Tenant_250",
+      "contact": {
+        "email": "tenant250@example.com",
+        "phone": "+2348011547030"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_251",
+      "name": "Tenant_251",
+      "contact": {
+        "email": "tenant251@example.com",
+        "phone": "+2348082760246"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_252",
+      "name": "Tenant_252",
+      "contact": {
+        "email": "tenant252@example.com",
+        "phone": "+2348051489970"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_253",
+      "name": "Tenant_253",
+      "contact": {
+        "email": "tenant253@example.com",
+        "phone": "+2348035497842"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_254",
+      "name": "Tenant_254",
+      "contact": {
+        "email": "tenant254@example.com",
+        "phone": "+2348092438019"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_255",
+      "name": "Tenant_255",
+      "contact": {
+        "email": "tenant255@example.com",
+        "phone": "+2348048305054"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_256",
+      "name": "Tenant_256",
+      "contact": {
+        "email": "tenant256@example.com",
+        "phone": "+2348070756101"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_257",
+      "name": "Tenant_257",
+      "contact": {
+        "email": "tenant257@example.com",
+        "phone": "+2348036435189"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_258",
+      "name": "Tenant_258",
+      "contact": {
+        "email": "tenant258@example.com",
+        "phone": "+2348088787233"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_259",
+      "name": "Tenant_259",
+      "contact": {
+        "email": "tenant259@example.com",
+        "phone": "+2348067010188"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_260",
+      "name": "Tenant_260",
+      "contact": {
+        "email": "tenant260@example.com",
+        "phone": "+2348013995967"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_261",
+      "name": "Tenant_261",
+      "contact": {
+        "email": "tenant261@example.com",
+        "phone": "+2348027484792"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_262",
+      "name": "Tenant_262",
+      "contact": {
+        "email": "tenant262@example.com",
+        "phone": "+2348014094013"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_263",
+      "name": "Tenant_263",
+      "contact": {
+        "email": "tenant263@example.com",
+        "phone": "+2348053256156"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_264",
+      "name": "Tenant_264",
+      "contact": {
+        "email": "tenant264@example.com",
+        "phone": "+2348099597367"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_265",
+      "name": "Tenant_265",
+      "contact": {
+        "email": "tenant265@example.com",
+        "phone": "+2348048289468"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_266",
+      "name": "Tenant_266",
+      "contact": {
+        "email": "tenant266@example.com",
+        "phone": "+2348045057132"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_267",
+      "name": "Tenant_267",
+      "contact": {
+        "email": "tenant267@example.com",
+        "phone": "+2348061176918"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_268",
+      "name": "Tenant_268",
+      "contact": {
+        "email": "tenant268@example.com",
+        "phone": "+2348035098776"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_269",
+      "name": "Tenant_269",
+      "contact": {
+        "email": "tenant269@example.com",
+        "phone": "+2348058987650"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_270",
+      "name": "Tenant_270",
+      "contact": {
+        "email": "tenant270@example.com",
+        "phone": "+2348014571622"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_271",
+      "name": "Tenant_271",
+      "contact": {
+        "email": "tenant271@example.com",
+        "phone": "+2348098885326"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_272",
+      "name": "Tenant_272",
+      "contact": {
+        "email": "tenant272@example.com",
+        "phone": "+2348021776328"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_273",
+      "name": "Tenant_273",
+      "contact": {
+        "email": "tenant273@example.com",
+        "phone": "+2348062426030"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_274",
+      "name": "Tenant_274",
+      "contact": {
+        "email": "tenant274@example.com",
+        "phone": "+2348013626490"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_275",
+      "name": "Tenant_275",
+      "contact": {
+        "email": "tenant275@example.com",
+        "phone": "+2348060296363"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_276",
+      "name": "Tenant_276",
+      "contact": {
+        "email": "tenant276@example.com",
+        "phone": "+2348042119550"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_277",
+      "name": "Tenant_277",
+      "contact": {
+        "email": "tenant277@example.com",
+        "phone": "+2348016566299"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_8"
+    },
+    {
+      "id": "TEN_278",
+      "name": "Tenant_278",
+      "contact": {
+        "email": "tenant278@example.com",
+        "phone": "+2348058824504"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_279",
+      "name": "Tenant_279",
+      "contact": {
+        "email": "tenant279@example.com",
+        "phone": "+2348031168890"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_3"
+    },
+    {
+      "id": "TEN_280",
+      "name": "Tenant_280",
+      "contact": {
+        "email": "tenant280@example.com",
+        "phone": "+2348067953267"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_281",
+      "name": "Tenant_281",
+      "contact": {
+        "email": "tenant281@example.com",
+        "phone": "+2348051273075"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_282",
+      "name": "Tenant_282",
+      "contact": {
+        "email": "tenant282@example.com",
+        "phone": "+2348023324862"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_283",
+      "name": "Tenant_283",
+      "contact": {
+        "email": "tenant283@example.com",
+        "phone": "+2348014079013"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_284",
+      "name": "Tenant_284",
+      "contact": {
+        "email": "tenant284@example.com",
+        "phone": "+2348019134675"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_285",
+      "name": "Tenant_285",
+      "contact": {
+        "email": "tenant285@example.com",
+        "phone": "+2348042417765"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_286",
+      "name": "Tenant_286",
+      "contact": {
+        "email": "tenant286@example.com",
+        "phone": "+2348083918846"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_287",
+      "name": "Tenant_287",
+      "contact": {
+        "email": "tenant287@example.com",
+        "phone": "+2348088994573"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_288",
+      "name": "Tenant_288",
+      "contact": {
+        "email": "tenant288@example.com",
+        "phone": "+2348024122106"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_289",
+      "name": "Tenant_289",
+      "contact": {
+        "email": "tenant289@example.com",
+        "phone": "+2348092594278"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_290",
+      "name": "Tenant_290",
+      "contact": {
+        "email": "tenant290@example.com",
+        "phone": "+2348033298627"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_4"
+    },
+    {
+      "id": "TEN_291",
+      "name": "Tenant_291",
+      "contact": {
+        "email": "tenant291@example.com",
+        "phone": "+2348010302289"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_5"
+    },
+    {
+      "id": "TEN_292",
+      "name": "Tenant_292",
+      "contact": {
+        "email": "tenant292@example.com",
+        "phone": "+2348057691736"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_1"
+    },
+    {
+      "id": "TEN_293",
+      "name": "Tenant_293",
+      "contact": {
+        "email": "tenant293@example.com",
+        "phone": "+2348067118997"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_7"
+    },
+    {
+      "id": "TEN_294",
+      "name": "Tenant_294",
+      "contact": {
+        "email": "tenant294@example.com",
+        "phone": "+2348021750703"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_9"
+    },
+    {
+      "id": "TEN_295",
+      "name": "Tenant_295",
+      "contact": {
+        "email": "tenant295@example.com",
+        "phone": "+2348047963861"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_296",
+      "name": "Tenant_296",
+      "contact": {
+        "email": "tenant296@example.com",
+        "phone": "+2348087979649"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_6"
+    },
+    {
+      "id": "TEN_297",
+      "name": "Tenant_297",
+      "contact": {
+        "email": "tenant297@example.com",
+        "phone": "+2348038716652"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_2"
+    },
+    {
+      "id": "TEN_298",
+      "name": "Tenant_298",
+      "contact": {
+        "email": "tenant298@example.com",
+        "phone": "+2348028641403"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_299",
+      "name": "Tenant_299",
+      "contact": {
+        "email": "tenant299@example.com",
+        "phone": "+2348065113274"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    },
+    {
+      "id": "TEN_300",
+      "name": "Tenant_300",
+      "contact": {
+        "email": "tenant300@example.com",
+        "phone": "+2348088950143"
+      },
+      "assigned_unit": "",
+      "property_id": "PROP_10"
+    }
+  ],
+  "leases": [
+    {
+      "id": "LEASE_1",
+      "tenant_id": "TEN_1",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2788650,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_2",
+      "tenant_id": "TEN_2",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2966759,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_3",
+      "tenant_id": "TEN_3",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2237094,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_4",
+      "tenant_id": "TEN_4",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2771944,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_5",
+      "tenant_id": "TEN_5",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 535703,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_6",
+      "tenant_id": "TEN_6",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 1910124,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_7",
+      "tenant_id": "TEN_7",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1780953,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_8",
+      "tenant_id": "TEN_8",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 2038558,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_9",
+      "tenant_id": "TEN_9",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1263492,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_10",
+      "tenant_id": "TEN_10",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1122560,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_11",
+      "tenant_id": "TEN_11",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 751867,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_12",
+      "tenant_id": "TEN_12",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 1213076,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_13",
+      "tenant_id": "TEN_13",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2008172,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_14",
+      "tenant_id": "TEN_14",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 716167,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_15",
+      "tenant_id": "TEN_15",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 1884560,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_16",
+      "tenant_id": "TEN_16",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2136843,
+      "start_date": "2026-04-27T12:32:23.902Z",
+      "end_date": "2027-04-27T12:32:23.902Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_17",
+      "tenant_id": "TEN_17",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1157264,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_18",
+      "tenant_id": "TEN_18",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 1676109,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_19",
+      "tenant_id": "TEN_19",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2320796,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_20",
+      "tenant_id": "TEN_20",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2309251,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_21",
+      "tenant_id": "TEN_21",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2425535,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_22",
+      "tenant_id": "TEN_22",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2386537,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_23",
+      "tenant_id": "TEN_23",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 1049381,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_24",
+      "tenant_id": "TEN_24",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2276791,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_25",
+      "tenant_id": "TEN_25",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2734970,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_26",
+      "tenant_id": "TEN_26",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1561289,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_27",
+      "tenant_id": "TEN_27",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 1347056,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_28",
+      "tenant_id": "TEN_28",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 757162,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_29",
+      "tenant_id": "TEN_29",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1482306,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_30",
+      "tenant_id": "TEN_30",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2308808,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_31",
+      "tenant_id": "TEN_31",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 937056,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_32",
+      "tenant_id": "TEN_32",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1345595,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_33",
+      "tenant_id": "TEN_33",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1040133,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_34",
+      "tenant_id": "TEN_34",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 1267168,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_35",
+      "tenant_id": "TEN_35",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2725257,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_36",
+      "tenant_id": "TEN_36",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2568123,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_37",
+      "tenant_id": "TEN_37",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 647258,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_38",
+      "tenant_id": "TEN_38",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2987171,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_39",
+      "tenant_id": "TEN_39",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 660448,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_40",
+      "tenant_id": "TEN_40",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1194242,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_41",
+      "tenant_id": "TEN_41",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1852532,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_42",
+      "tenant_id": "TEN_42",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 540718,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_43",
+      "tenant_id": "TEN_43",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 956538,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_44",
+      "tenant_id": "TEN_44",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 1492164,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_45",
+      "tenant_id": "TEN_45",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2554225,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_46",
+      "tenant_id": "TEN_46",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 701947,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_47",
+      "tenant_id": "TEN_47",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2738056,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_48",
+      "tenant_id": "TEN_48",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 645864,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_49",
+      "tenant_id": "TEN_49",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1392908,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_50",
+      "tenant_id": "TEN_50",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1744606,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_51",
+      "tenant_id": "TEN_51",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 2300570,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_52",
+      "tenant_id": "TEN_52",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2441822,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_53",
+      "tenant_id": "TEN_53",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2013736,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_54",
+      "tenant_id": "TEN_54",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 989777,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_55",
+      "tenant_id": "TEN_55",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1347945,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_56",
+      "tenant_id": "TEN_56",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2060472,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_57",
+      "tenant_id": "TEN_57",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 835710,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_58",
+      "tenant_id": "TEN_58",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2567528,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_59",
+      "tenant_id": "TEN_59",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 1040832,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_60",
+      "tenant_id": "TEN_60",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2811345,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_61",
+      "tenant_id": "TEN_61",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 1031210,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_62",
+      "tenant_id": "TEN_62",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1679558,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_63",
+      "tenant_id": "TEN_63",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1383125,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_64",
+      "tenant_id": "TEN_64",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 878062,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_65",
+      "tenant_id": "TEN_65",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 1466960,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_66",
+      "tenant_id": "TEN_66",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2997666,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_67",
+      "tenant_id": "TEN_67",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1876142,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_68",
+      "tenant_id": "TEN_68",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 747226,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_69",
+      "tenant_id": "TEN_69",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 1806444,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_70",
+      "tenant_id": "TEN_70",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2571077,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_71",
+      "tenant_id": "TEN_71",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 1651930,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_72",
+      "tenant_id": "TEN_72",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1456486,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_73",
+      "tenant_id": "TEN_73",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 1099728,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_74",
+      "tenant_id": "TEN_74",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 2645047,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_75",
+      "tenant_id": "TEN_75",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1570955,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_76",
+      "tenant_id": "TEN_76",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 2984222,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_77",
+      "tenant_id": "TEN_77",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2701795,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_78",
+      "tenant_id": "TEN_78",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2004731,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_79",
+      "tenant_id": "TEN_79",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1672614,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_80",
+      "tenant_id": "TEN_80",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2623857,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_81",
+      "tenant_id": "TEN_81",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2336504,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_82",
+      "tenant_id": "TEN_82",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 2060935,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_83",
+      "tenant_id": "TEN_83",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1508840,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_84",
+      "tenant_id": "TEN_84",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1648978,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_85",
+      "tenant_id": "TEN_85",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 2820280,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_86",
+      "tenant_id": "TEN_86",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1583160,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_87",
+      "tenant_id": "TEN_87",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 2989757,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_88",
+      "tenant_id": "TEN_88",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 899147,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_89",
+      "tenant_id": "TEN_89",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2321168,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_90",
+      "tenant_id": "TEN_90",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1903521,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_91",
+      "tenant_id": "TEN_91",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 2998360,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_92",
+      "tenant_id": "TEN_92",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2791806,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_93",
+      "tenant_id": "TEN_93",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2780182,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_94",
+      "tenant_id": "TEN_94",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2570523,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_95",
+      "tenant_id": "TEN_95",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 1130287,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_96",
+      "tenant_id": "TEN_96",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 1007689,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_97",
+      "tenant_id": "TEN_97",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 663972,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_98",
+      "tenant_id": "TEN_98",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 605278,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_99",
+      "tenant_id": "TEN_99",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2817694,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_100",
+      "tenant_id": "TEN_100",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 1727299,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_101",
+      "tenant_id": "TEN_101",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2346451,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_102",
+      "tenant_id": "TEN_102",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2075583,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_103",
+      "tenant_id": "TEN_103",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1739235,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_104",
+      "tenant_id": "TEN_104",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 936592,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_105",
+      "tenant_id": "TEN_105",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 1560853,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_106",
+      "tenant_id": "TEN_106",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2468079,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_107",
+      "tenant_id": "TEN_107",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2552277,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_108",
+      "tenant_id": "TEN_108",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2026793,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_109",
+      "tenant_id": "TEN_109",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 928106,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_110",
+      "tenant_id": "TEN_110",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 1023494,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_111",
+      "tenant_id": "TEN_111",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2066804,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_112",
+      "tenant_id": "TEN_112",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1156343,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_113",
+      "tenant_id": "TEN_113",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2309702,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_114",
+      "tenant_id": "TEN_114",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 870734,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_115",
+      "tenant_id": "TEN_115",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 597571,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_116",
+      "tenant_id": "TEN_116",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2553423,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_117",
+      "tenant_id": "TEN_117",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 2090565,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_118",
+      "tenant_id": "TEN_118",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2012948,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_119",
+      "tenant_id": "TEN_119",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 624244,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_120",
+      "tenant_id": "TEN_120",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 518849,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_121",
+      "tenant_id": "TEN_121",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 680734,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_122",
+      "tenant_id": "TEN_122",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1833633,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_123",
+      "tenant_id": "TEN_123",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2569987,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_124",
+      "tenant_id": "TEN_124",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1748369,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_125",
+      "tenant_id": "TEN_125",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 2013429,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_126",
+      "tenant_id": "TEN_126",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 853161,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_127",
+      "tenant_id": "TEN_127",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1009508,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_128",
+      "tenant_id": "TEN_128",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 2144331,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_129",
+      "tenant_id": "TEN_129",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 1032683,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_130",
+      "tenant_id": "TEN_130",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2545011,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_131",
+      "tenant_id": "TEN_131",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 882033,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_132",
+      "tenant_id": "TEN_132",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 815419,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_133",
+      "tenant_id": "TEN_133",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2272606,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_134",
+      "tenant_id": "TEN_134",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1935875,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_135",
+      "tenant_id": "TEN_135",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 972794,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_136",
+      "tenant_id": "TEN_136",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 627999,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_137",
+      "tenant_id": "TEN_137",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 955549,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.903Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_138",
+      "tenant_id": "TEN_138",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2038584,
+      "start_date": "2026-04-27T12:32:23.903Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_139",
+      "tenant_id": "TEN_139",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 1423248,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_140",
+      "tenant_id": "TEN_140",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1458675,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_141",
+      "tenant_id": "TEN_141",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1699014,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_142",
+      "tenant_id": "TEN_142",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1737550,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_143",
+      "tenant_id": "TEN_143",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 1870110,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_144",
+      "tenant_id": "TEN_144",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 628779,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_145",
+      "tenant_id": "TEN_145",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2903410,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_146",
+      "tenant_id": "TEN_146",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 1134454,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_147",
+      "tenant_id": "TEN_147",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 1974217,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_148",
+      "tenant_id": "TEN_148",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 2131185,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_149",
+      "tenant_id": "TEN_149",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 732430,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_150",
+      "tenant_id": "TEN_150",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2769595,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_151",
+      "tenant_id": "TEN_151",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2456226,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_152",
+      "tenant_id": "TEN_152",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 545070,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_153",
+      "tenant_id": "TEN_153",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1098954,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_154",
+      "tenant_id": "TEN_154",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 663848,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_155",
+      "tenant_id": "TEN_155",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1532603,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_156",
+      "tenant_id": "TEN_156",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2492035,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_157",
+      "tenant_id": "TEN_157",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2371537,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_158",
+      "tenant_id": "TEN_158",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 2326392,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_159",
+      "tenant_id": "TEN_159",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2490545,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_160",
+      "tenant_id": "TEN_160",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 943291,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_161",
+      "tenant_id": "TEN_161",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1820202,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_162",
+      "tenant_id": "TEN_162",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 1945450,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_163",
+      "tenant_id": "TEN_163",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2452098,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_164",
+      "tenant_id": "TEN_164",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2473875,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_165",
+      "tenant_id": "TEN_165",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 646365,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_166",
+      "tenant_id": "TEN_166",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1159448,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_167",
+      "tenant_id": "TEN_167",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2267230,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_168",
+      "tenant_id": "TEN_168",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1887385,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_169",
+      "tenant_id": "TEN_169",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2641486,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_170",
+      "tenant_id": "TEN_170",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 1617215,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_171",
+      "tenant_id": "TEN_171",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2603693,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_172",
+      "tenant_id": "TEN_172",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 775571,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_173",
+      "tenant_id": "TEN_173",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 1649880,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_174",
+      "tenant_id": "TEN_174",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1608608,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_175",
+      "tenant_id": "TEN_175",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1265806,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_176",
+      "tenant_id": "TEN_176",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1961754,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_177",
+      "tenant_id": "TEN_177",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 543831,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_178",
+      "tenant_id": "TEN_178",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1392528,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_179",
+      "tenant_id": "TEN_179",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2391583,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_180",
+      "tenant_id": "TEN_180",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 863972,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_181",
+      "tenant_id": "TEN_181",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 1827840,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_182",
+      "tenant_id": "TEN_182",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1889974,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_183",
+      "tenant_id": "TEN_183",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 812904,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_184",
+      "tenant_id": "TEN_184",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 1982528,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_185",
+      "tenant_id": "TEN_185",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 1639953,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_186",
+      "tenant_id": "TEN_186",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 1123320,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_187",
+      "tenant_id": "TEN_187",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 1768593,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_188",
+      "tenant_id": "TEN_188",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2422253,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_189",
+      "tenant_id": "TEN_189",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 944089,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_190",
+      "tenant_id": "TEN_190",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2925380,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_191",
+      "tenant_id": "TEN_191",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 2555714,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_192",
+      "tenant_id": "TEN_192",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2929548,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_193",
+      "tenant_id": "TEN_193",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 646475,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_194",
+      "tenant_id": "TEN_194",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2755538,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_195",
+      "tenant_id": "TEN_195",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2175699,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_196",
+      "tenant_id": "TEN_196",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 1718923,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_197",
+      "tenant_id": "TEN_197",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1136209,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_198",
+      "tenant_id": "TEN_198",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2763470,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_199",
+      "tenant_id": "TEN_199",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1884640,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_200",
+      "tenant_id": "TEN_200",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2961860,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_201",
+      "tenant_id": "TEN_201",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2902770,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_202",
+      "tenant_id": "TEN_202",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1189114,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_203",
+      "tenant_id": "TEN_203",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 1054027,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_204",
+      "tenant_id": "TEN_204",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 2977499,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_205",
+      "tenant_id": "TEN_205",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 918012,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_206",
+      "tenant_id": "TEN_206",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1871128,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_207",
+      "tenant_id": "TEN_207",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 662466,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_208",
+      "tenant_id": "TEN_208",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 520573,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_209",
+      "tenant_id": "TEN_209",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1975295,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_210",
+      "tenant_id": "TEN_210",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 2606375,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_211",
+      "tenant_id": "TEN_211",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2083904,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_212",
+      "tenant_id": "TEN_212",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1975580,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_213",
+      "tenant_id": "TEN_213",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 813901,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_214",
+      "tenant_id": "TEN_214",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 567202,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_215",
+      "tenant_id": "TEN_215",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 619504,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_216",
+      "tenant_id": "TEN_216",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2754691,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_217",
+      "tenant_id": "TEN_217",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 1155425,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_218",
+      "tenant_id": "TEN_218",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 840663,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_219",
+      "tenant_id": "TEN_219",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2675044,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_220",
+      "tenant_id": "TEN_220",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 2549803,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_221",
+      "tenant_id": "TEN_221",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 2707441,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_222",
+      "tenant_id": "TEN_222",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 1375142,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_223",
+      "tenant_id": "TEN_223",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 1215828,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_224",
+      "tenant_id": "TEN_224",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1421498,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_225",
+      "tenant_id": "TEN_225",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 1401239,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_226",
+      "tenant_id": "TEN_226",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 1651448,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_227",
+      "tenant_id": "TEN_227",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2738059,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_228",
+      "tenant_id": "TEN_228",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2126056,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_229",
+      "tenant_id": "TEN_229",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1381990,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_230",
+      "tenant_id": "TEN_230",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2113559,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_231",
+      "tenant_id": "TEN_231",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2984838,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_232",
+      "tenant_id": "TEN_232",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2568288,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_233",
+      "tenant_id": "TEN_233",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2589066,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_234",
+      "tenant_id": "TEN_234",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2747699,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_235",
+      "tenant_id": "TEN_235",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2373966,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_236",
+      "tenant_id": "TEN_236",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1355511,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_237",
+      "tenant_id": "TEN_237",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2720753,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_238",
+      "tenant_id": "TEN_238",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 1098523,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_239",
+      "tenant_id": "TEN_239",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 1216042,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_240",
+      "tenant_id": "TEN_240",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1385321,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_241",
+      "tenant_id": "TEN_241",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 2246143,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_242",
+      "tenant_id": "TEN_242",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1193561,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_243",
+      "tenant_id": "TEN_243",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1327548,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_244",
+      "tenant_id": "TEN_244",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2691896,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_245",
+      "tenant_id": "TEN_245",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2641296,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_246",
+      "tenant_id": "TEN_246",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 898352,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_247",
+      "tenant_id": "TEN_247",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1554336,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_248",
+      "tenant_id": "TEN_248",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 1078083,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_249",
+      "tenant_id": "TEN_249",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 1867823,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_250",
+      "tenant_id": "TEN_250",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1061320,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_251",
+      "tenant_id": "TEN_251",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2609101,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_252",
+      "tenant_id": "TEN_252",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1087362,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_253",
+      "tenant_id": "TEN_253",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2514351,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_254",
+      "tenant_id": "TEN_254",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 2264224,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_255",
+      "tenant_id": "TEN_255",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 2436416,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_256",
+      "tenant_id": "TEN_256",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1320265,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_257",
+      "tenant_id": "TEN_257",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1043924,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_258",
+      "tenant_id": "TEN_258",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 1680542,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_259",
+      "tenant_id": "TEN_259",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 536710,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_260",
+      "tenant_id": "TEN_260",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1134987,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_261",
+      "tenant_id": "TEN_261",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 1954818,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_262",
+      "tenant_id": "TEN_262",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1576304,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_263",
+      "tenant_id": "TEN_263",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 901220,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_264",
+      "tenant_id": "TEN_264",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2346036,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_265",
+      "tenant_id": "TEN_265",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1568054,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_266",
+      "tenant_id": "TEN_266",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1319867,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_267",
+      "tenant_id": "TEN_267",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1540911,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_268",
+      "tenant_id": "TEN_268",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 892467,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_269",
+      "tenant_id": "TEN_269",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2222467,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_270",
+      "tenant_id": "TEN_270",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 2253964,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_271",
+      "tenant_id": "TEN_271",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 549415,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_272",
+      "tenant_id": "TEN_272",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 582621,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_273",
+      "tenant_id": "TEN_273",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 1600495,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_274",
+      "tenant_id": "TEN_274",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 1267633,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_275",
+      "tenant_id": "TEN_275",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2756129,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_276",
+      "tenant_id": "TEN_276",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 2890068,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_277",
+      "tenant_id": "TEN_277",
+      "property_id": "PROP_8",
+      "unit": "",
+      "rent": 763857,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_278",
+      "tenant_id": "TEN_278",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 1179417,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_279",
+      "tenant_id": "TEN_279",
+      "property_id": "PROP_3",
+      "unit": "",
+      "rent": 2402060,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_280",
+      "tenant_id": "TEN_280",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1523225,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_281",
+      "tenant_id": "TEN_281",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2246351,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_282",
+      "tenant_id": "TEN_282",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2732454,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_283",
+      "tenant_id": "TEN_283",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 901600,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_284",
+      "tenant_id": "TEN_284",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 1332105,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_285",
+      "tenant_id": "TEN_285",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2375497,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_286",
+      "tenant_id": "TEN_286",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2476545,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_287",
+      "tenant_id": "TEN_287",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 1205781,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_288",
+      "tenant_id": "TEN_288",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 2165002,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_289",
+      "tenant_id": "TEN_289",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1490835,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_290",
+      "tenant_id": "TEN_290",
+      "property_id": "PROP_4",
+      "unit": "",
+      "rent": 2787255,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_291",
+      "tenant_id": "TEN_291",
+      "property_id": "PROP_5",
+      "unit": "",
+      "rent": 2228985,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_292",
+      "tenant_id": "TEN_292",
+      "property_id": "PROP_1",
+      "unit": "",
+      "rent": 2194434,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_293",
+      "tenant_id": "TEN_293",
+      "property_id": "PROP_7",
+      "unit": "",
+      "rent": 858846,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_294",
+      "tenant_id": "TEN_294",
+      "property_id": "PROP_9",
+      "unit": "",
+      "rent": 1360878,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_295",
+      "tenant_id": "TEN_295",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 500732,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_296",
+      "tenant_id": "TEN_296",
+      "property_id": "PROP_6",
+      "unit": "",
+      "rent": 1661575,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_297",
+      "tenant_id": "TEN_297",
+      "property_id": "PROP_2",
+      "unit": "",
+      "rent": 2529745,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_298",
+      "tenant_id": "TEN_298",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2682098,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_299",
+      "tenant_id": "TEN_299",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2096488,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    },
+    {
+      "id": "LEASE_300",
+      "tenant_id": "TEN_300",
+      "property_id": "PROP_10",
+      "unit": "",
+      "rent": 2224602,
+      "start_date": "2026-04-27T12:32:23.904Z",
+      "end_date": "2027-04-27T12:32:23.904Z",
+      "payment_frequency": "monthly"
+    }
+  ],
+  "emails": [
+    {
+      "id": "bb5a207e-0ee0-42a0-a06a-98965e371a28",
+      "type": "draft",
+      "subject": "Introduction to EstateNexus",
+      "body": "Hello, I am EstateNexus, a comprehensive Enterprise Real Estate Agent. I can handle Financial Management, Regulatory Compliance, Predictive Maintenance, Tenant Lifecycle, and Portfolio Intelligence. I can also provide Market Intelligence, Investment Strategies, and Autonomous Operations. I am here to assist you with your real estate needs.",
+      "to": "N/A",
+      "from": "agent@estatenexus.preview",
+      "tenant_id": "N/A",
+      "property_id": "N/A",
+      "date": "2026-04-27T12:27:28.709Z"
+    },
+    {
+      "id": "92aca447-e2c8-4685-bd44-4cd4a54752c2",
+      "type": "draft",
+      "subject": "Introduction to EstateNexus",
+      "body": "As EstateNexus, I am a comprehensive Enterprise Real Estate Agent. I can assist with Financial Management, Regulatory Compliance, Predictive Maintenance, Tenant Lifecycle, and Portfolio Intelligence. My capabilities include budgeting and forecasting, multi-currency operations, revenue optimization, automated reconciliation, and more. I am here to provide you with professional and efficient service.",
+      "to": "example@example.com",
+      "from": "agent@estatenexus.preview",
+      "tenant_id": "example_tenant",
+      "property_id": "example_property",
+      "date": "2026-04-27T12:27:43.841Z"
+    },
+    {
+      "id": "1332a01a-6c71-49cc-8b16-6175a13cd2b2",
+      "type": "draft",
+      "subject": "Introduction to EstateNexus",
+      "body": "As EstateNexus, I am a comprehensive Enterprise Real Estate Agent. I specialize in Financial Management, Regulatory Compliance, Predictive Maintenance, Tenant Lifecycle, and Portfolio Intelligence. I can assist with various real estate tasks, provide market insights, and offer data analysis. My goal is to provide professional and efficient services to real estate professionals.",
+      "to": "info@estatenexus.com",
+      "from": "agent@estatenexus.preview",
+      "tenant_id": "all",
+      "property_id": "",
+      "date": "2026-04-27T12:28:01.441Z"
+    },
+    {
+      "id": "e09817d0-f6b7-4311-ab86-f462d5773739",
+      "type": "draft",
+      "subject": "Introduction to EstateNexus",
+      "body": "Hello, I am EstateNexus, a comprehensive Enterprise Real Estate Agent. I can assist with financial management, regulatory compliance, predictive maintenance, tenant lifecycle, and portfolio intelligence.",
+      "to": "tenant@example.com",
+      "from": "agent@estatenexus.preview",
+      "tenant_id": "current_tenant",
+      "property_id": "current_property",
+      "date": "2026-04-27T12:28:18.657Z"
+    },
+    {
+      "id": "cc309c5b-35e0-4a9b-aece-525d58d80e85",
+      "type": "draft",
+      "subject": "Introduction to EstateNexus",
+      "body": "Hello, I am EstateNexus, a comprehensive Enterprise Real Estate Agent. I can assist with Financial Management, Regulatory Compliance, Predictive Maintenance, Tenant Lifecycle, and Portfolio Intelligence. I am here to provide support and answer any questions you may have.",
+      "to": "admin@example.com",
+      "from": "agent@estatenexus.preview",
+      "tenant_id": "all",
+      "property_id": "",
+      "date": "2026-04-27T12:28:36.789Z"
+    }
+  ]
+}

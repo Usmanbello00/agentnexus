@@ -1,0 +1,6 @@
+{
+  "name": "EstateNexus: Enterprise Help Desk",
+  "description": "Enterprise-grade AI agentic help desk specialized for real estate management, handling property inquiries, maintenance scheduling, and tenant support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Real Estate AI", "Maintenance Scheduling", "Tenant Help Desk", "Property Analytics"]
+}
